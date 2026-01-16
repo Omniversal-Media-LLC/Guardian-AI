@@ -1,0 +1,16 @@
+name: Guardian-AI
+id: ari:cloud:compass:98f239cf-fa04-4e2c-9e89-76b3496a9eb7:component/a3221818-8bba-4a60-9c87-7791b8e38c12/c300f180-c589-4587-bb20-0677f8296f67
+description: A trauma-informed, emotionally adaptive AI architecture designed for continuity, not coercion.
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/Omniversal-Media-LLC/Guardian-AI
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
